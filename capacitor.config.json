@@ -1,0 +1,8 @@
+{
+  "appId": "com.homecontrol.app",
+  "appName": "HomeControl",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
